@@ -1,3 +1,3 @@
-Hello iam in developmdent branch
+Hello iam in development branch
 hello iam developing in dev branch
 hello iam in master branch
